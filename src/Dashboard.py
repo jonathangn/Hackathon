@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Nov 21 12:21:04 2025
+Creado el Vie Nov 21 12:21:04 2025
 
 @author: edsqfde
 """
@@ -73,7 +73,7 @@ st.sidebar.info("Este dashboard se actualiza en tiempo real con los leads del ch
 st.title("📊 Sistema de Inteligencia de Clientes")
 st.markdown("Plataforma centralizada para la gestión de Leads y Retención de Clientes.")
 
-# Tabs
+# Pestañas
 tab1, tab2, tab3, tab4 = st.tabs(["🏠 Resumen", "🔴 Leads en Tiempo Real", "⚠️ Alertas de Churn", "📈 Análisis Estratégico"])
 
 # --- TAB 1: RESUMEN ---
