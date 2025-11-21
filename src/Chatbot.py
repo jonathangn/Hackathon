@@ -111,6 +111,9 @@ def process_input(user_input):
 
 Un asesor se pondrá en contacto contigo pronto."""
                 st.session_state.step = 6 # Fin
+                
+                # Guardar el lead en CSV para el Dashboard
+                save_lead(st.session_state.user_data)
             else:
                 response = "Por favor ingresa un número entre 1 y 10."
         except ValueError:
@@ -124,6 +127,31 @@ Un asesor se pondrá en contacto contigo pronto."""
     
     # Forzar recarga para mostrar mensajes
     st.rerun()
+
+def save_lead(data):
+    """Guarda el lead capturado en un archivo CSV."""
+    file_path = os.path.join(PROJECT_ROOT, 'data/raw/new_leads.csv')
+    
+    # Crear DataFrame con los datos del usuario
+    # Aseguramos que tenga las columnas clave
+    new_lead = {
+        'fecha': datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+        'nombre': data.get('nombre', 'Anónimo'),
+        'industria': data.get('industria', 'Desconocida'),
+        'cargo': data.get('cargo_lead', 'Desconocido'),
+        'ciudad': data.get('ciudad', 'Desconocida'),
+        'urgencia': data.get('urgencia_compra', 0),
+        'score': data.get('score', 0.0),
+        'calidad': "🔥 CALIENTE" if data.get('score', 0) > 0.7 else ("⚠️ TIBIO" if data.get('score', 0) > 0.4 else "❄️ FRÍO")
+    }
+    
+    df_new = pd.DataFrame([new_lead])
+    
+    # Guardar en CSV (append si existe, write si no)
+    if os.path.exists(file_path):
+        df_new.to_csv(file_path, mode='a', header=False, index=False)
+    else:
+        df_new.to_csv(file_path, mode='w', header=True, index=False)
 
 def predict_lead_score(data):
     # Construir DataFrame con una sola fila

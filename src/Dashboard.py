@@ -61,23 +61,6 @@ with col1:
     st.info("Utiliza el formulario de la derecha para simular un nuevo lead y obtener su Score de conversión.")
 
     # Mostrar la tabla de leads recientes
-    st.subheader("Leads de Alta Calidad Recientes (Top 10)")
-    # En un dashboard real, se cargaría data nueva, aquí usamos un ejemplo de los datos procesados
-    df_top_leads = df_leads_processed.head(10).copy()
-    df_top_leads['Lead_Score'] = modelo_leads.predict_proba(df_top_leads)[:, 1]
-    df_top_leads['Score_Categoria'] = np.where(df_top_leads['Lead_Score'] > 0.7, '🎯 PRIORITARIO', '✅ Normal')
-    
-    st.dataframe(
-        df_top_leads[['Lead_Score', 'Score_Categoria'] + df_leads_processed.columns.tolist()[:3]].sort_values(by='Lead_Score', ascending=False), 
-        use_container_width=True,
-        hide_index=True
-    )
-
-with col2:
-    st.subheader("Simular Nuevo Lead")
-    
-    # Usar una columna categórica de ejemplo del DataFrame de leads procesado
-    ejemplo_dispositivo = df_leads_processed['dispositivo_Mobile'].mean() > 0
     
     with st.form("nuevo_lead_form"):
         # Se requiere el input de las variables más importantes del modelo
