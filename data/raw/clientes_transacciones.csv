@@ -1,0 +1,2248 @@
+id_cliente,presupuesto,tamaño_empresa,industria
+1,28823105,Micro,Turismo
+3,24842132,Micro,Manufactura
+5,38699688,Pequeña,Construcción
+5,23465493,Pequeña,Construcción
+5,98204187,Pequeña,Construcción
+6,12397030,Micro,Construcción
+7,17349278,Micro,Manufactura
+10,28884219,Micro,Manufactura
+11,97497428,Pequeña,Servicios Profesionales
+13,29879307,Micro,Manufactura
+13,5111098,Micro,Manufactura
+13,12120818,Micro,Manufactura
+16,224461979,Mediana,Servicios Profesionales
+16,272538724,Mediana,Servicios Profesionales
+17,3735200,Micro,Comercio
+18,20378793,Micro,Comercio
+18,17545087,Micro,Comercio
+19,28927769,Pequeña,Turismo
+21,13083359,Micro,Tecnología
+22,61640175,Pequeña,Construcción
+22,22775242,Pequeña,Construcción
+23,7772463,Micro,Comercio
+23,22964207,Micro,Comercio
+23,19944647,Micro,Comercio
+25,538333911,Grande,Construcción
+26,11719240,Micro,Construcción
+27,46651685,Pequeña,Comercio
+28,67438823,Pequeña,Manufactura
+29,15718593,Micro,Turismo
+29,13273264,Micro,Turismo
+31,38185021,Pequeña,Turismo
+32,3657208,Micro,Educación
+33,694735030,Grande,Comercio
+34,66967236,Pequeña,Educación
+35,22314112,Micro,Turismo
+35,17271386,Micro,Turismo
+35,9677692,Micro,Turismo
+37,13459435,Micro,Comercio
+37,13522285,Micro,Comercio
+37,17732731,Micro,Comercio
+38,2641307,Micro,Construcción
+38,8588893,Micro,Construcción
+39,79319157,Pequeña,Manufactura
+40,3018786,Micro,Servicios Profesionales
+43,8007960,Micro,Educación
+44,92286816,Pequeña,Educación
+45,7687969,Micro,Servicios Profesionales
+45,22327716,Micro,Servicios Profesionales
+45,10401158,Micro,Servicios Profesionales
+46,20924328,Pequeña,Servicios Profesionales
+46,33813195,Pequeña,Servicios Profesionales
+46,92135597,Pequeña,Servicios Profesionales
+47,16958902,Micro,Educación
+47,21939221,Micro,Educación
+47,6999512,Micro,Educación
+49,241125586,Mediana,Educación
+50,24806312,Micro,Comercio
+51,93043062,Pequeña,Manufactura
+54,4963613,Micro,Servicios Profesionales
+55,13956944,Micro,Tecnología
+55,4738107,Micro,Tecnología
+55,26245525,Micro,Tecnología
+57,373255137,Grande,Turismo
+57,743648604,Grande,Turismo
+58,19362689,Micro,Educación
+58,26021967,Micro,Educación
+58,24492369,Micro,Educación
+59,98585748,Pequeña,Manufactura
+59,54591900,Pequeña,Manufactura
+59,22533537,Pequeña,Manufactura
+60,27284618,Micro,Comercio
+60,20414836,Micro,Comercio
+61,20390121,Pequeña,Turismo
+62,19911389,Micro,Construcción
+63,24927524,Micro,Tecnología
+63,2396893,Micro,Tecnología
+64,731814176,Grande,Manufactura
+64,582814231,Grande,Manufactura
+66,28929118,Micro,Manufactura
+66,9094639,Micro,Manufactura
+68,9069875,Micro,Salud
+69,15211040,Micro,Manufactura
+69,22346917,Micro,Manufactura
+70,71601176,Pequeña,Tecnología
+73,66958391,Pequeña,Educación
+75,22880717,Micro,Tecnología
+76,449942082,Grande,Tecnología
+76,385046303,Grande,Tecnología
+76,298105650,Grande,Tecnología
+78,94765321,Pequeña,Educación
+79,20489597,Micro,Construcción
+81,3677131,Micro,Manufactura
+83,56569124,Pequeña,Comercio
+83,77728163,Pequeña,Comercio
+84,66803121,Pequeña,Salud
+84,81314007,Pequeña,Salud
+84,53552651,Pequeña,Salud
+85,63466377,Pequeña,Salud
+86,13907110,Micro,Servicios Profesionales
+88,211829041,Mediana,Turismo
+90,40219521,Pequeña,Construcción
+90,52954756,Pequeña,Construcción
+92,2125790,Micro,Salud
+93,36552216,Pequeña,Construcción
+94,14600513,Micro,Comercio
+94,13792212,Micro,Comercio
+94,6796119,Micro,Comercio
+95,28914755,Micro,Construcción
+96,238551798,Mediana,Tecnología
+98,16811224,Micro,Manufactura
+101,71758665,Pequeña,Turismo
+101,97533940,Pequeña,Turismo
+102,9661718,Micro,Turismo
+102,27236820,Micro,Turismo
+103,66936068,Pequeña,Turismo
+103,34786456,Pequeña,Turismo
+104,28117836,Micro,Manufactura
+105,24016148,Pequeña,Salud
+105,50705797,Pequeña,Salud
+106,19932408,Micro,Educación
+106,7034226,Micro,Educación
+108,62886337,Pequeña,Servicios Profesionales
+109,55329000,Pequeña,Servicios Profesionales
+110,7797418,Micro,Comercio
+110,22963629,Micro,Comercio
+111,11400439,Micro,Servicios Profesionales
+111,29504812,Micro,Servicios Profesionales
+111,12764705,Micro,Servicios Profesionales
+112,93808501,Mediana,Manufactura
+112,142305069,Mediana,Manufactura
+113,178298435,Mediana,Comercio
+114,26343341,Micro,Servicios Profesionales
+118,16039240,Micro,Tecnología
+119,42995851,Pequeña,Tecnología
+120,286819757,Mediana,Tecnología
+120,274392016,Mediana,Tecnología
+122,12604503,Micro,Servicios Profesionales
+124,83705835,Pequeña,Tecnología
+124,68721071,Pequeña,Tecnología
+126,8732534,Micro,Tecnología
+126,10633299,Micro,Tecnología
+126,21285530,Micro,Tecnología
+127,6369056,Micro,Comercio
+127,2423427,Micro,Comercio
+128,20750405,Micro,Salud
+129,25802327,Micro,Manufactura
+131,94110770,Pequeña,Comercio
+131,44548041,Pequeña,Comercio
+132,15350664,Micro,Tecnología
+134,7991314,Micro,Comercio
+136,2408530,Micro,Educación
+137,33762241,Pequeña,Turismo
+140,16642058,Micro,Tecnología
+143,10711851,Micro,Educación
+144,56884233,Pequeña,Servicios Profesionales
+145,17051659,Micro,Manufactura
+145,9338547,Micro,Manufactura
+146,522488283,Grande,Salud
+146,527408496,Grande,Salud
+146,550375546,Grande,Salud
+147,41457140,Pequeña,Turismo
+147,74026787,Pequeña,Turismo
+148,24747955,Micro,Manufactura
+148,22117851,Micro,Manufactura
+148,29185449,Micro,Manufactura
+149,65239502,Pequeña,Construcción
+150,34292096,Pequeña,Salud
+152,10493722,Micro,Tecnología
+153,47679959,Pequeña,Manufactura
+153,32339532,Pequeña,Manufactura
+153,86030493,Pequeña,Manufactura
+154,18549363,Micro,Educación
+155,39422395,Pequeña,Salud
+156,211071955,Mediana,Manufactura
+158,244336581,Mediana,Comercio
+158,220352081,Mediana,Comercio
+158,111035857,Mediana,Comercio
+159,34060361,Pequeña,Manufactura
+160,14759368,Micro,Comercio
+160,24460398,Micro,Comercio
+161,21845542,Micro,Comercio
+161,29072239,Micro,Comercio
+162,10099106,Micro,Salud
+162,15088729,Micro,Salud
+163,157810961,Mediana,Comercio
+163,249837679,Mediana,Comercio
+164,50928945,Pequeña,Comercio
+165,255562067,Grande,Manufactura
+167,2853464,Micro,Educación
+167,9665650,Micro,Educación
+168,88073898,Mediana,Salud
+169,6211591,Micro,Tecnología
+170,25765049,Micro,Construcción
+171,118698305,Mediana,Salud
+172,10647121,Micro,Manufactura
+172,24282577,Micro,Manufactura
+173,145773038,Mediana,Tecnología
+174,58560950,Pequeña,Tecnología
+174,26960365,Pequeña,Tecnología
+175,13740389,Micro,Manufactura
+177,395329268,Grande,Turismo
+179,428672143,Grande,Salud
+180,9841383,Micro,Tecnología
+180,20277286,Micro,Tecnología
+181,17377191,Micro,Manufactura
+181,11707680,Micro,Manufactura
+183,270222911,Mediana,Comercio
+184,206759688,Mediana,Manufactura
+185,178883124,Mediana,Comercio
+186,10391010,Micro,Manufactura
+188,250447124,Mediana,Manufactura
+189,45338592,Pequeña,Salud
+190,10020164,Micro,Tecnología
+191,96275705,Pequeña,Turismo
+191,51034974,Pequeña,Turismo
+192,24960456,Micro,Servicios Profesionales
+192,26558059,Micro,Servicios Profesionales
+193,55869838,Pequeña,Servicios Profesionales
+193,64373594,Pequeña,Servicios Profesionales
+194,26684925,Micro,Turismo
+195,20581238,Micro,Tecnología
+195,7736219,Micro,Tecnología
+195,23907513,Micro,Tecnología
+196,8466611,Micro,Servicios Profesionales
+196,3835853,Micro,Servicios Profesionales
+196,19597497,Micro,Servicios Profesionales
+198,23878627,Micro,Comercio
+198,18495280,Micro,Comercio
+198,29451765,Micro,Comercio
+199,24020413,Micro,Manufactura
+199,12107527,Micro,Manufactura
+200,106228730,Mediana,Tecnología
+200,269381730,Mediana,Tecnología
+201,3444193,Micro,Manufactura
+204,25237587,Micro,Salud
+204,23458344,Micro,Salud
+205,75298008,Pequeña,Servicios Profesionales
+207,11394305,Micro,Servicios Profesionales
+208,284072824,Grande,Salud
+209,111043688,Mediana,Salud
+209,265555239,Mediana,Salud
+210,12140258,Micro,Turismo
+212,47452271,Pequeña,Comercio
+212,71075409,Pequeña,Comercio
+213,87824993,Pequeña,Tecnología
+213,43857022,Pequeña,Tecnología
+213,47758860,Pequeña,Tecnología
+214,25185301,Micro,Turismo
+214,18286751,Micro,Turismo
+215,24431857,Micro,Comercio
+215,8191116,Micro,Comercio
+216,24487251,Micro,Tecnología
+217,18350167,Micro,Comercio
+217,22623483,Micro,Comercio
+218,431179462,Grande,Turismo
+219,29653715,Micro,Servicios Profesionales
+220,7156702,Micro,Tecnología
+221,686031192,Grande,Turismo
+221,350743291,Grande,Turismo
+222,9289806,Micro,Turismo
+222,6245597,Micro,Turismo
+224,89436103,Pequeña,Comercio
+225,220816928,Mediana,Construcción
+225,180970880,Mediana,Construcción
+228,16366722,Micro,Manufactura
+229,243546766,Mediana,Manufactura
+230,18694944,Micro,Educación
+231,87268315,Pequeña,Construcción
+232,278513867,Mediana,Salud
+233,86662442,Pequeña,Manufactura
+234,20146430,Micro,Construcción
+234,4813296,Micro,Construcción
+235,315082516,Grande,Educación
+235,304952316,Grande,Educación
+235,377011975,Grande,Educación
+238,4841585,Micro,Educación
+238,28899729,Micro,Educación
+238,8825077,Micro,Educación
+239,133278868,Mediana,Tecnología
+240,247634086,Mediana,Tecnología
+240,200461917,Mediana,Tecnología
+244,62955731,Pequeña,Manufactura
+246,77783800,Pequeña,Educación
+246,92492237,Pequeña,Educación
+250,144781713,Mediana,Salud
+250,277459398,Mediana,Salud
+250,138314848,Mediana,Salud
+253,11795151,Micro,Manufactura
+253,22865377,Micro,Manufactura
+253,18233511,Micro,Manufactura
+255,490933250,Grande,Educación
+258,28570384,Micro,Comercio
+260,294132747,Mediana,Tecnología
+261,14589014,Micro,Servicios Profesionales
+262,243406054,Mediana,Comercio
+262,176763616,Mediana,Comercio
+263,189002377,Mediana,Construcción
+263,186970279,Mediana,Construcción
+264,6482624,Micro,Educación
+264,19411539,Micro,Educación
+265,16000886,Micro,Construcción
+266,10394372,Micro,Tecnología
+266,7969971,Micro,Tecnología
+267,21667527,Micro,Servicios Profesionales
+268,18469944,Micro,Educación
+269,277269819,Mediana,Tecnología
+269,181884863,Mediana,Tecnología
+270,26143168,Micro,Servicios Profesionales
+271,11286317,Micro,Salud
+272,17224580,Micro,Tecnología
+272,3099582,Micro,Tecnología
+272,25404620,Micro,Tecnología
+273,144262929,Mediana,Comercio
+273,112815546,Mediana,Comercio
+273,92439253,Mediana,Comercio
+276,25849755,Micro,Turismo
+279,14467425,Micro,Servicios Profesionales
+280,29873280,Micro,Comercio
+284,3065811,Micro,Salud
+284,2710121,Micro,Salud
+285,37069671,Pequeña,Comercio
+287,21226073,Micro,Educación
+287,19974045,Micro,Educación
+289,73593531,Pequeña,Servicios Profesionales
+290,19194664,Micro,Manufactura
+290,11329144,Micro,Manufactura
+291,14427090,Micro,Comercio
+293,89585809,Pequeña,Educación
+294,22538582,Micro,Turismo
+296,15489267,Micro,Construcción
+297,63539479,Pequeña,Turismo
+297,38125871,Pequeña,Turismo
+297,36356855,Pequeña,Turismo
+298,22044499,Micro,Educación
+300,25141066,Micro,Educación
+302,23299298,Micro,Servicios Profesionales
+302,24486281,Micro,Servicios Profesionales
+302,23735636,Micro,Servicios Profesionales
+303,39355714,Pequeña,Manufactura
+303,58956672,Pequeña,Manufactura
+304,490612518,Grande,Tecnología
+304,428898850,Grande,Tecnología
+305,518733356,Grande,Construcción
+305,694246856,Grande,Construcción
+309,41653219,Pequeña,Turismo
+310,84141818,Pequeña,Construcción
+311,17917524,Micro,Educación
+312,27538848,Micro,Turismo
+312,4049187,Micro,Turismo
+314,13647857,Micro,Turismo
+315,25218872,Micro,Turismo
+315,19825745,Micro,Turismo
+318,26854743,Micro,Servicios Profesionales
+319,83620406,Mediana,Comercio
+320,18595680,Micro,Manufactura
+321,6092061,Micro,Manufactura
+322,221636231,Mediana,Comercio
+325,12085988,Micro,Servicios Profesionales
+326,78440260,Pequeña,Educación
+327,86434745,Pequeña,Turismo
+327,96295103,Pequeña,Turismo
+328,270759373,Mediana,Comercio
+328,80716460,Mediana,Comercio
+329,20290108,Micro,Educación
+332,356723150,Grande,Manufactura
+333,122176489,Mediana,Turismo
+333,167318748,Mediana,Turismo
+334,48157468,Pequeña,Manufactura
+337,29350016,Micro,Construcción
+337,21482094,Micro,Construcción
+338,505100717,Grande,Comercio
+340,95127575,Pequeña,Salud
+341,241871877,Mediana,Comercio
+341,97128457,Mediana,Comercio
+343,13313914,Micro,Comercio
+343,20752581,Micro,Comercio
+344,17091339,Micro,Turismo
+344,24224807,Micro,Turismo
+345,60924955,Pequeña,Turismo
+346,96727204,Pequeña,Tecnología
+346,56217216,Pequeña,Tecnología
+348,518873932,Grande,Educación
+349,17943882,Micro,Turismo
+349,3316058,Micro,Turismo
+350,21492696,Micro,Construcción
+351,27471401,Micro,Turismo
+352,2526953,Micro,Salud
+354,24232210,Micro,Educación
+355,26988117,Micro,Educación
+356,79416098,Pequeña,Servicios Profesionales
+356,90880495,Pequeña,Servicios Profesionales
+356,73706504,Pequeña,Servicios Profesionales
+357,258468823,Mediana,Tecnología
+357,153906719,Mediana,Tecnología
+359,18623325,Micro,Educación
+359,27528161,Micro,Educación
+360,38794891,Pequeña,Turismo
+361,418493779,Grande,Manufactura
+361,756752264,Grande,Manufactura
+363,77117627,Pequeña,Turismo
+364,696979744,Grande,Comercio
+366,12360100,Micro,Tecnología
+366,29281490,Micro,Tecnología
+367,96895430,Pequeña,Salud
+367,68466581,Pequeña,Salud
+369,615991954,Grande,Manufactura
+370,28284735,Micro,Tecnología
+372,188921083,Mediana,Manufactura
+372,162462347,Mediana,Manufactura
+373,108320507,Mediana,Manufactura
+374,275662825,Mediana,Tecnología
+376,64068623,Pequeña,Construcción
+378,230470743,Mediana,Tecnología
+378,222373695,Mediana,Tecnología
+380,19236046,Micro,Tecnología
+382,34975272,Pequeña,Manufactura
+383,18765667,Micro,Turismo
+383,15393939,Micro,Turismo
+383,24504605,Micro,Turismo
+384,149042715,Mediana,Tecnología
+384,258854263,Mediana,Tecnología
+384,86168614,Mediana,Tecnología
+385,16508836,Micro,Turismo
+386,252415381,Grande,Comercio
+386,557339463,Grande,Comercio
+386,702475359,Grande,Comercio
+389,9038534,Micro,Comercio
+389,9308255,Micro,Comercio
+391,481269183,Grande,Manufactura
+392,21459961,Micro,Educación
+392,21178805,Micro,Educación
+393,83297421,Pequeña,Turismo
+394,25401318,Micro,Comercio
+395,12361690,Micro,Salud
+395,28740920,Micro,Salud
+396,22657699,Micro,Turismo
+396,29648353,Micro,Turismo
+396,15922703,Micro,Turismo
+397,295440695,Mediana,Tecnología
+397,260699299,Mediana,Tecnología
+398,24709014,Micro,Turismo
+398,15535771,Micro,Turismo
+400,15901970,Micro,Construcción
+401,362037442,Grande,Educación
+403,6207668,Micro,Construcción
+404,22240413,Pequeña,Salud
+407,4989690,Micro,Comercio
+407,26155223,Micro,Comercio
+408,32935973,Pequeña,Educación
+408,21571440,Pequeña,Educación
+409,42917928,Pequeña,Turismo
+409,38540551,Pequeña,Turismo
+410,231693888,Mediana,Servicios Profesionales
+412,77055020,Pequeña,Educación
+412,26461709,Pequeña,Educación
+413,20881491,Micro,Salud
+415,39201820,Pequeña,Turismo
+415,28928340,Pequeña,Turismo
+416,60018397,Pequeña,Servicios Profesionales
+417,614489344,Grande,Manufactura
+417,597238392,Grande,Manufactura
+417,767629532,Grande,Manufactura
+418,116695133,Mediana,Servicios Profesionales
+424,160901162,Mediana,Construcción
+425,379756255,Grande,Turismo
+425,413660437,Grande,Turismo
+426,276288078,Mediana,Servicios Profesionales
+427,73229573,Pequeña,Salud
+428,203503925,Mediana,Servicios Profesionales
+428,241781087,Mediana,Servicios Profesionales
+429,52618448,Pequeña,Educación
+429,65058378,Pequeña,Educación
+429,59966498,Pequeña,Educación
+430,579375175,Grande,Construcción
+430,490133066,Grande,Construcción
+431,2571509,Micro,Turismo
+431,3158258,Micro,Turismo
+432,24155852,Micro,Comercio
+432,5863628,Micro,Comercio
+432,16791757,Micro,Comercio
+433,99819508,Pequeña,Comercio
+433,88191459,Pequeña,Comercio
+433,61001751,Pequeña,Comercio
+435,12212597,Micro,Turismo
+437,226258311,Mediana,Construcción
+437,101914293,Mediana,Construcción
+437,101572826,Mediana,Construcción
+438,90024718,Pequeña,Turismo
+439,11194415,Micro,Tecnología
+440,5568014,Micro,Tecnología
+441,27328945,Micro,Tecnología
+442,12744263,Micro,Servicios Profesionales
+443,213702291,Mediana,Turismo
+443,81216249,Mediana,Turismo
+445,280154040,Grande,Turismo
+448,29336665,Micro,Manufactura
+448,22314393,Micro,Manufactura
+448,15480992,Micro,Manufactura
+449,68850102,Pequeña,Salud
+450,338566223,Grande,Comercio
+451,82179763,Pequeña,Comercio
+451,60062776,Pequeña,Comercio
+452,8467280,Micro,Construcción
+454,37871946,Pequeña,Servicios Profesionales
+454,36619260,Pequeña,Servicios Profesionales
+454,47635892,Pequeña,Servicios Profesionales
+455,23473985,Micro,Tecnología
+456,62415530,Pequeña,Servicios Profesionales
+457,4187689,Micro,Construcción
+458,28833893,Micro,Comercio
+460,559572734,Grande,Manufactura
+461,155147079,Mediana,Comercio
+462,22420709,Micro,Turismo
+463,11820638,Micro,Comercio
+463,16138939,Micro,Comercio
+463,28652731,Micro,Comercio
+464,95083730,Pequeña,Manufactura
+465,26641013,Micro,Educación
+465,19536038,Micro,Educación
+465,22678219,Micro,Educación
+467,22678973,Micro,Turismo
+468,414832639,Grande,Manufactura
+468,540418703,Grande,Manufactura
+468,423401976,Grande,Manufactura
+470,28400915,Micro,Construcción
+470,12168723,Micro,Construcción
+471,96290695,Pequeña,Tecnología
+472,28808437,Micro,Turismo
+474,30697143,Pequeña,Turismo
+475,6667638,Micro,Salud
+478,246710267,Mediana,Educación
+479,24717238,Micro,Turismo
+479,8474925,Micro,Turismo
+480,90841462,Pequeña,Educación
+481,9684752,Micro,Servicios Profesionales
+481,16234911,Micro,Servicios Profesionales
+483,271557594,Mediana,Turismo
+484,25075044,Micro,Manufactura
+485,7254196,Micro,Tecnología
+485,7540976,Micro,Tecnología
+486,26510864,Micro,Construcción
+487,22570890,Micro,Turismo
+488,23079875,Pequeña,Tecnología
+488,88179250,Pequeña,Tecnología
+488,93055325,Pequeña,Tecnología
+489,557467270,Grande,Salud
+491,80498185,Pequeña,Tecnología
+492,16831550,Micro,Salud
+495,16974398,Micro,Turismo
+495,18121664,Micro,Turismo
+496,15136582,Micro,Servicios Profesionales
+497,89400369,Pequeña,Turismo
+497,25873776,Pequeña,Turismo
+498,275822332,Grande,Servicios Profesionales
+500,390676711,Grande,Construcción
+500,324972038,Grande,Construcción
+501,295714892,Mediana,Turismo
+501,145858989,Mediana,Turismo
+502,131256873,Mediana,Salud
+507,13720831,Micro,Servicios Profesionales
+507,4943755,Micro,Servicios Profesionales
+508,25190115,Micro,Tecnología
+509,314748880,Grande,Turismo
+511,22568652,Micro,Tecnología
+512,68805077,Pequeña,Manufactura
+512,69643849,Pequeña,Manufactura
+513,28630936,Micro,Construcción
+514,24782552,Micro,Educación
+515,29824316,Micro,Servicios Profesionales
+517,290438881,Mediana,Salud
+518,15366671,Micro,Tecnología
+518,4450564,Micro,Tecnología
+518,2934126,Micro,Tecnología
+519,20803830,Pequeña,Turismo
+519,44473416,Pequeña,Turismo
+520,28093030,Micro,Salud
+520,24934565,Micro,Salud
+520,12351444,Micro,Salud
+524,5004320,Micro,Manufactura
+525,13806055,Micro,Construcción
+525,3067170,Micro,Construcción
+526,112318163,Mediana,Turismo
+526,99388421,Mediana,Turismo
+527,93960287,Pequeña,Salud
+527,70035722,Pequeña,Salud
+530,5304132,Micro,Servicios Profesionales
+531,79123989,Pequeña,Educación
+531,79011327,Pequeña,Educación
+531,88622294,Pequeña,Educación
+532,10492598,Micro,Educación
+532,10628520,Micro,Educación
+532,26831834,Micro,Educación
+535,96119157,Pequeña,Construcción
+536,5975591,Micro,Construcción
+536,10593545,Micro,Construcción
+536,16948611,Micro,Construcción
+537,97774388,Pequeña,Tecnología
+538,97273043,Pequeña,Manufactura
+538,34542452,Pequeña,Manufactura
+539,567342379,Grande,Servicios Profesionales
+541,58760891,Pequeña,Salud
+541,68917308,Pequeña,Salud
+542,58357152,Pequeña,Turismo
+542,99376841,Pequeña,Turismo
+543,11388971,Micro,Manufactura
+544,96353946,Mediana,Tecnología
+545,18150242,Micro,Manufactura
+548,9544252,Micro,Servicios Profesionales
+549,6069646,Micro,Turismo
+549,29197491,Micro,Turismo
+550,13931321,Micro,Salud
+550,26578302,Micro,Salud
+550,15662656,Micro,Salud
+552,15033479,Micro,Salud
+553,83639627,Pequeña,Construcción
+553,89653850,Pequeña,Construcción
+554,10003231,Micro,Construcción
+554,20925883,Micro,Construcción
+555,24057850,Micro,Manufactura
+556,52401816,Pequeña,Manufactura
+556,88669097,Pequeña,Manufactura
+557,27140481,Pequeña,Tecnología
+559,217214922,Mediana,Salud
+560,86988801,Pequeña,Manufactura
+561,11583620,Micro,Educación
+562,4043103,Micro,Turismo
+563,29169379,Micro,Comercio
+565,5104646,Micro,Servicios Profesionales
+566,8507184,Micro,Tecnología
+566,22708356,Micro,Tecnología
+566,25930237,Micro,Tecnología
+568,69684198,Pequeña,Comercio
+569,24979817,Micro,Educación
+569,14571940,Micro,Educación
+569,13250548,Micro,Educación
+572,28202221,Micro,Educación
+572,20510724,Micro,Educación
+572,26701859,Micro,Educación
+575,97600166,Pequeña,Tecnología
+577,28552456,Micro,Construcción
+579,39496809,Pequeña,Construcción
+581,41034258,Pequeña,Salud
+582,551208564,Grande,Turismo
+582,741364082,Grande,Turismo
+583,12680830,Micro,Comercio
+585,163810158,Mediana,Tecnología
+586,62396647,Pequeña,Comercio
+589,6464380,Micro,Construcción
+589,29840898,Micro,Construcción
+589,21341033,Micro,Construcción
+590,702271598,Grande,Servicios Profesionales
+592,22039464,Pequeña,Construcción
+594,38933208,Pequeña,Educación
+594,96415786,Pequeña,Educación
+595,67739208,Pequeña,Servicios Profesionales
+595,33967409,Pequeña,Servicios Profesionales
+595,33234328,Pequeña,Servicios Profesionales
+596,15136243,Micro,Salud
+598,61933630,Pequeña,Construcción
+598,74709493,Pequeña,Construcción
+599,195544917,Mediana,Salud
+600,27855455,Pequeña,Turismo
+601,262040273,Mediana,Servicios Profesionales
+601,267636260,Mediana,Servicios Profesionales
+601,124517772,Mediana,Servicios Profesionales
+603,32782541,Pequeña,Construcción
+604,9500398,Micro,Construcción
+605,20700950,Micro,Educación
+605,26889593,Micro,Educación
+606,46505834,Pequeña,Tecnología
+607,13200296,Micro,Educación
+609,31025031,Pequeña,Tecnología
+610,201815610,Mediana,Comercio
+613,8773231,Micro,Educación
+615,124493710,Mediana,Turismo
+616,27402941,Micro,Comercio
+616,12796337,Micro,Comercio
+616,13951444,Micro,Comercio
+617,54145200,Pequeña,Educación
+617,64766989,Pequeña,Educación
+617,35192750,Pequeña,Educación
+618,90208601,Pequeña,Manufactura
+621,29733175,Micro,Salud
+621,25354662,Micro,Salud
+622,3167143,Micro,Turismo
+623,20564789,Micro,Educación
+625,68674144,Pequeña,Salud
+626,29965703,Micro,Turismo
+626,18027502,Micro,Turismo
+627,20577299,Micro,Tecnología
+627,18304544,Micro,Tecnología
+628,20887189,Micro,Servicios Profesionales
+631,8148916,Micro,Servicios Profesionales
+633,21626957,Micro,Comercio
+634,183715410,Mediana,Servicios Profesionales
+634,96487319,Mediana,Servicios Profesionales
+635,20219584,Micro,Construcción
+636,13267181,Micro,Tecnología
+636,29415961,Micro,Tecnología
+636,22916468,Micro,Tecnología
+637,25281844,Micro,Salud
+638,12018392,Micro,Turismo
+639,273783111,Grande,Construcción
+639,674149792,Grande,Construcción
+640,146434639,Mediana,Comercio
+641,397766633,Grande,Comercio
+641,369646137,Grande,Comercio
+643,14371631,Micro,Servicios Profesionales
+643,7024725,Micro,Servicios Profesionales
+646,3257563,Micro,Manufactura
+647,39921831,Pequeña,Servicios Profesionales
+649,345201186,Grande,Construcción
+650,83519946,Pequeña,Educación
+650,83063333,Pequeña,Educación
+651,21180999,Micro,Comercio
+652,23267830,Micro,Educación
+653,20157004,Micro,Salud
+654,9851615,Micro,Comercio
+654,16529155,Micro,Comercio
+655,17439216,Micro,Construcción
+655,7093597,Micro,Construcción
+657,25507324,Pequeña,Servicios Profesionales
+658,16629263,Micro,Turismo
+659,86535971,Pequeña,Construcción
+660,26031602,Micro,Salud
+662,52299130,Pequeña,Servicios Profesionales
+667,2500739,Micro,Educación
+667,14660537,Micro,Educación
+668,93843644,Pequeña,Educación
+669,317584874,Grande,Turismo
+669,635379801,Grande,Turismo
+670,59668294,Pequeña,Comercio
+670,91823368,Pequeña,Comercio
+670,29650951,Pequeña,Comercio
+671,15618469,Micro,Turismo
+671,27746945,Micro,Turismo
+672,2097288,Micro,Tecnología
+672,5352133,Micro,Tecnología
+676,48908791,Pequeña,Manufactura
+678,89550900,Pequeña,Salud
+678,36423656,Pequeña,Salud
+680,5154194,Micro,Tecnología
+682,88771525,Mediana,Comercio
+682,214285018,Mediana,Comercio
+684,724527972,Grande,Servicios Profesionales
+684,787413773,Grande,Servicios Profesionales
+685,471376454,Grande,Salud
+686,251718271,Grande,Comercio
+687,8139690,Micro,Tecnología
+687,9965407,Micro,Tecnología
+688,39811041,Pequeña,Servicios Profesionales
+689,6020523,Micro,Turismo
+689,20387226,Micro,Turismo
+689,5948365,Micro,Turismo
+692,3773502,Micro,Tecnología
+692,26857637,Micro,Tecnología
+695,288787993,Mediana,Comercio
+696,10203757,Micro,Turismo
+698,6528870,Micro,Salud
+699,79824319,Pequeña,Educación
+700,752265865,Grande,Tecnología
+701,286320460,Mediana,Tecnología
+701,136696432,Mediana,Tecnología
+702,54016381,Pequeña,Manufactura
+702,50924976,Pequeña,Manufactura
+703,23922805,Micro,Servicios Profesionales
+706,109168597,Mediana,Turismo
+706,188095490,Mediana,Turismo
+706,142654365,Mediana,Turismo
+708,26265251,Micro,Construcción
+708,24060277,Micro,Construcción
+711,8539089,Micro,Tecnología
+712,6396647,Micro,Tecnología
+713,4858196,Micro,Educación
+713,21366091,Micro,Educación
+715,31449664,Pequeña,Manufactura
+715,77631136,Pequeña,Manufactura
+717,10629341,Micro,Construcción
+718,18645326,Micro,Servicios Profesionales
+718,23366000,Micro,Servicios Profesionales
+719,24382369,Micro,Salud
+719,4130318,Micro,Salud
+721,14010985,Micro,Manufactura
+722,25516628,Micro,Construcción
+723,92973538,Pequeña,Comercio
+723,95410904,Pequeña,Comercio
+725,42140986,Pequeña,Salud
+726,291547980,Mediana,Servicios Profesionales
+726,250866686,Mediana,Servicios Profesionales
+728,121360502,Mediana,Turismo
+728,248974819,Mediana,Turismo
+730,8019921,Micro,Construcción
+730,20207377,Micro,Construcción
+731,13374283,Micro,Comercio
+733,72983583,Pequeña,Educación
+733,96360551,Pequeña,Educación
+733,37163545,Pequeña,Educación
+734,18313761,Micro,Educación
+735,11865575,Micro,Servicios Profesionales
+736,98892079,Pequeña,Construcción
+738,162568566,Mediana,Manufactura
+740,87786023,Pequeña,Construcción
+740,58253758,Pequeña,Construcción
+741,269214062,Mediana,Turismo
+742,15582876,Micro,Comercio
+743,29716152,Pequeña,Educación
+744,14698696,Micro,Salud
+744,29018008,Micro,Salud
+745,76451244,Pequeña,Comercio
+745,51246323,Pequeña,Comercio
+747,47625554,Pequeña,Salud
+747,36167661,Pequeña,Salud
+747,45940210,Pequeña,Salud
+748,21646229,Micro,Salud
+749,602487161,Grande,Manufactura
+749,484024767,Grande,Manufactura
+750,20951231,Pequeña,Manufactura
+751,28170351,Micro,Educación
+752,271447727,Grande,Comercio
+752,523083921,Grande,Comercio
+752,634173202,Grande,Comercio
+757,460638760,Grande,Manufactura
+758,37829226,Pequeña,Tecnología
+760,27350854,Micro,Manufactura
+763,113980680,Mediana,Comercio
+764,13151425,Micro,Manufactura
+764,11099453,Micro,Manufactura
+764,11502986,Micro,Manufactura
+766,84901183,Pequeña,Manufactura
+766,82097075,Pequeña,Manufactura
+767,9587321,Micro,Construcción
+768,24084938,Micro,Comercio
+768,10922854,Micro,Comercio
+769,13824702,Micro,Tecnología
+769,27929253,Micro,Tecnología
+769,5632246,Micro,Tecnología
+771,3144371,Micro,Turismo
+772,9702299,Micro,Tecnología
+773,425638342,Grande,Construcción
+775,10652566,Micro,Turismo
+776,349480041,Grande,Servicios Profesionales
+776,336332649,Grande,Servicios Profesionales
+777,4378643,Micro,Construcción
+778,678394651,Grande,Construcción
+780,19889902,Micro,Salud
+781,68285328,Pequeña,Turismo
+782,21516346,Micro,Turismo
+782,2374759,Micro,Turismo
+783,26559943,Micro,Comercio
+784,243992863,Mediana,Educación
+785,9640723,Micro,Construcción
+786,16068186,Micro,Educación
+786,4014848,Micro,Educación
+787,521886261,Grande,Educación
+787,617646311,Grande,Educación
+787,760215663,Grande,Educación
+789,5387650,Micro,Salud
+789,28504699,Micro,Salud
+790,31759269,Pequeña,Tecnología
+792,57358913,Pequeña,Salud
+792,68628330,Pequeña,Salud
+793,7402218,Micro,Salud
+794,16790261,Micro,Tecnología
+794,28307902,Micro,Tecnología
+795,18403043,Micro,Servicios Profesionales
+796,12057491,Micro,Tecnología
+796,27190057,Micro,Tecnología
+797,13356743,Micro,Construcción
+799,28029089,Micro,Educación
+799,22948810,Micro,Educación
+799,23416076,Micro,Educación
+801,14599068,Micro,Turismo
+802,26804496,Pequeña,Tecnología
+802,82490933,Pequeña,Tecnología
+804,654034557,Grande,Tecnología
+805,90146658,Pequeña,Servicios Profesionales
+810,6380467,Micro,Turismo
+810,15650326,Micro,Turismo
+811,27361749,Micro,Construcción
+811,28457986,Micro,Construcción
+812,56419890,Pequeña,Turismo
+812,47718685,Pequeña,Turismo
+812,55799198,Pequeña,Turismo
+813,13003206,Micro,Salud
+814,9715081,Micro,Salud
+814,19894547,Micro,Salud
+815,8142819,Micro,Servicios Profesionales
+815,19120853,Micro,Servicios Profesionales
+816,16623358,Micro,Turismo
+816,9285638,Micro,Turismo
+817,20553284,Micro,Manufactura
+819,43070219,Pequeña,Educación
+819,49804490,Pequeña,Educación
+819,93259909,Pequeña,Educación
+822,7659948,Micro,Salud
+824,17932936,Micro,Educación
+824,26093257,Micro,Educación
+827,96027735,Pequeña,Tecnología
+829,11044936,Micro,Servicios Profesionales
+830,261429232,Mediana,Comercio
+831,24095610,Micro,Turismo
+831,19830805,Micro,Turismo
+832,5256072,Micro,Salud
+833,22766122,Micro,Educación
+834,283603781,Mediana,Educación
+834,236429929,Mediana,Educación
+835,28745944,Micro,Construcción
+836,594369201,Grande,Manufactura
+837,33025411,Pequeña,Turismo
+839,15968877,Micro,Tecnología
+840,10301019,Micro,Manufactura
+841,13055187,Micro,Construcción
+842,23219127,Micro,Servicios Profesionales
+843,25227268,Micro,Turismo
+843,23414484,Micro,Turismo
+844,14879930,Micro,Tecnología
+844,3759178,Micro,Tecnología
+844,18356805,Micro,Tecnología
+847,62624895,Pequeña,Manufactura
+847,67089848,Pequeña,Manufactura
+847,81193766,Pequeña,Manufactura
+848,15208926,Micro,Manufactura
+849,582103545,Grande,Manufactura
+851,280870850,Mediana,Salud
+851,163529617,Mediana,Salud
+852,785136539,Grande,Comercio
+854,94771517,Pequeña,Turismo
+855,15884375,Micro,Construcción
+855,12389998,Micro,Construcción
+856,168303362,Mediana,Construcción
+856,253073237,Mediana,Construcción
+856,291209320,Mediana,Construcción
+858,20818204,Pequeña,Tecnología
+858,86755150,Pequeña,Tecnología
+858,38959825,Pequeña,Tecnología
+860,26504850,Micro,Salud
+861,7014658,Micro,Salud
+864,27746817,Pequeña,Comercio
+865,98605905,Pequeña,Tecnología
+867,169588740,Mediana,Comercio
+868,2284099,Micro,Construcción
+869,20902849,Micro,Construcción
+870,6200706,Micro,Comercio
+870,25641729,Micro,Comercio
+871,72924648,Pequeña,Servicios Profesionales
+871,84896031,Pequeña,Servicios Profesionales
+872,131175974,Mediana,Tecnología
+873,21673188,Micro,Comercio
+874,28706484,Micro,Educación
+875,170285006,Mediana,Manufactura
+876,20123262,Micro,Servicios Profesionales
+876,10482463,Micro,Servicios Profesionales
+876,11406598,Micro,Servicios Profesionales
+877,8700036,Micro,Servicios Profesionales
+877,27316410,Micro,Servicios Profesionales
+877,17851789,Micro,Servicios Profesionales
+878,27755374,Micro,Manufactura
+878,29631941,Micro,Manufactura
+878,7149640,Micro,Manufactura
+879,24373805,Micro,Salud
+880,38341098,Pequeña,Tecnología
+880,36299980,Pequeña,Tecnología
+880,23470001,Pequeña,Tecnología
+881,25223045,Pequeña,Turismo
+881,57680533,Pequeña,Turismo
+882,12245077,Micro,Tecnología
+883,24115070,Micro,Salud
+883,22040689,Micro,Salud
+883,22371818,Micro,Salud
+886,29500910,Micro,Educación
+887,83504680,Pequeña,Turismo
+888,28347691,Pequeña,Turismo
+888,23708115,Pequeña,Turismo
+889,24567720,Micro,Educación
+890,74669923,Pequeña,Educación
+891,99788714,Pequeña,Servicios Profesionales
+892,4660090,Micro,Turismo
+893,41924541,Pequeña,Educación
+894,90085209,Pequeña,Turismo
+894,67321679,Pequeña,Turismo
+894,62777603,Pequeña,Turismo
+895,14576042,Micro,Turismo
+895,4801551,Micro,Turismo
+896,12551753,Micro,Construcción
+898,125015684,Mediana,Manufactura
+900,20973910,Micro,Turismo
+900,28494864,Micro,Turismo
+901,23256838,Pequeña,Construcción
+901,56490885,Pequeña,Construcción
+903,36148788,Pequeña,Tecnología
+903,43896765,Pequeña,Tecnología
+903,94569557,Pequeña,Tecnología
+904,20041771,Micro,Comercio
+904,24529399,Micro,Comercio
+905,177162078,Mediana,Servicios Profesionales
+905,153883567,Mediana,Servicios Profesionales
+906,11205814,Micro,Comercio
+906,9527802,Micro,Comercio
+906,19771683,Micro,Comercio
+907,451534543,Grande,Tecnología
+907,519697302,Grande,Tecnología
+907,703996792,Grande,Tecnología
+910,19912444,Micro,Comercio
+913,236552677,Mediana,Turismo
+913,147772445,Mediana,Turismo
+915,29630420,Micro,Manufactura
+915,10565568,Micro,Manufactura
+916,21835516,Micro,Comercio
+916,17281274,Micro,Comercio
+918,22214397,Pequeña,Construcción
+919,53570719,Pequeña,Servicios Profesionales
+921,9174645,Micro,Construcción
+921,13009386,Micro,Construcción
+923,790384445,Grande,Servicios Profesionales
+924,51024717,Pequeña,Tecnología
+925,11393135,Micro,Construcción
+925,4806838,Micro,Construcción
+926,19680634,Micro,Salud
+926,25469374,Micro,Salud
+928,257063681,Mediana,Tecnología
+930,27766600,Micro,Turismo
+931,13489033,Micro,Tecnología
+932,230630398,Mediana,Turismo
+933,10422742,Micro,Manufactura
+933,22363710,Micro,Manufactura
+934,64568734,Pequeña,Tecnología
+935,67566007,Pequeña,Manufactura
+935,48371337,Pequeña,Manufactura
+936,12780639,Micro,Construcción
+936,6308871,Micro,Construcción
+936,3701583,Micro,Construcción
+937,5351706,Micro,Educación
+938,118207535,Mediana,Comercio
+941,353196185,Grande,Servicios Profesionales
+943,53666326,Pequeña,Salud
+945,10094930,Micro,Salud
+947,686695992,Grande,Turismo
+947,655389012,Grande,Turismo
+947,628962875,Grande,Turismo
+948,159784065,Mediana,Tecnología
+948,113881207,Mediana,Tecnología
+949,9795016,Micro,Construcción
+949,4642755,Micro,Construcción
+949,8287121,Micro,Construcción
+951,29919229,Micro,Manufactura
+952,151787952,Mediana,Manufactura
+955,25890869,Pequeña,Tecnología
+958,83939157,Pequeña,Servicios Profesionales
+961,95412042,Pequeña,Manufactura
+961,54147781,Pequeña,Manufactura
+963,26260717,Micro,Tecnología
+964,67415109,Pequeña,Salud
+964,40150233,Pequeña,Salud
+964,87913301,Pequeña,Salud
+965,615126230,Grande,Turismo
+965,272670272,Grande,Turismo
+966,55457266,Pequeña,Manufactura
+966,54950136,Pequeña,Manufactura
+967,96613668,Pequeña,Construcción
+967,66922494,Pequeña,Construcción
+968,575840860,Grande,Educación
+970,55134626,Pequeña,Educación
+971,8866874,Micro,Construcción
+971,28273545,Micro,Construcción
+971,6942718,Micro,Construcción
+972,97944094,Pequeña,Tecnología
+973,16755105,Micro,Manufactura
+974,627779505,Grande,Construcción
+975,258304142,Mediana,Construcción
+976,85248704,Mediana,Construcción
+976,154691547,Mediana,Construcción
+976,161435494,Mediana,Construcción
+977,21131906,Micro,Salud
+977,19898963,Micro,Salud
+977,2470465,Micro,Salud
+979,171560536,Mediana,Tecnología
+980,32532546,Pequeña,Manufactura
+981,12532966,Micro,Comercio
+981,16647540,Micro,Comercio
+982,9871723,Micro,Salud
+982,5044014,Micro,Salud
+983,69572671,Pequeña,Manufactura
+984,28559744,Micro,Construcción
+984,11961934,Micro,Construcción
+985,6610430,Micro,Construcción
+985,20009185,Micro,Construcción
+985,25679545,Micro,Construcción
+986,166588357,Mediana,Comercio
+986,267626989,Mediana,Comercio
+987,92663755,Mediana,Tecnología
+989,90968498,Pequeña,Tecnología
+990,121591545,Mediana,Educación
+991,131041077,Mediana,Educación
+991,253278012,Mediana,Educación
+993,9625131,Micro,Educación
+994,530697949,Grande,Salud
+994,308521169,Grande,Salud
+995,101698765,Mediana,Turismo
+995,113631461,Mediana,Turismo
+996,11025993,Micro,Manufactura
+997,274852086,Mediana,Construcción
+997,108837257,Mediana,Construcción
+998,24992095,Micro,Turismo
+998,22818884,Micro,Turismo
+999,181692554,Mediana,Turismo
+1000,5264376,Micro,Comercio
+1001,34869903,Pequeña,Manufactura
+1001,61308245,Pequeña,Manufactura
+1002,13365048,Micro,Tecnología
+1005,153628358,Mediana,Tecnología
+1006,19152070,Micro,Comercio
+1006,7457305,Micro,Comercio
+1006,23572982,Micro,Comercio
+1007,82848320,Pequeña,Servicios Profesionales
+1010,18161323,Micro,Turismo
+1011,12272422,Micro,Servicios Profesionales
+1012,95504307,Mediana,Educación
+1012,281961115,Mediana,Educación
+1013,29667113,Micro,Tecnología
+1014,24305838,Micro,Turismo
+1015,405147753,Grande,Tecnología
+1016,10315037,Micro,Tecnología
+1017,91022197,Pequeña,Comercio
+1017,55099256,Pequeña,Comercio
+1020,697457378,Grande,Turismo
+1020,537384839,Grande,Turismo
+1020,438297711,Grande,Turismo
+1021,256064340,Mediana,Salud
+1021,163375770,Mediana,Salud
+1021,242135514,Mediana,Salud
+1022,62036851,Pequeña,Construcción
+1023,175047706,Mediana,Servicios Profesionales
+1027,65551369,Pequeña,Servicios Profesionales
+1027,98515658,Pequeña,Servicios Profesionales
+1027,43338882,Pequeña,Servicios Profesionales
+1028,90700209,Pequeña,Tecnología
+1030,41548696,Pequeña,Comercio
+1030,37880915,Pequeña,Comercio
+1030,58668192,Pequeña,Comercio
+1031,20089207,Micro,Comercio
+1031,6293973,Micro,Comercio
+1032,174313860,Mediana,Servicios Profesionales
+1032,83388870,Mediana,Servicios Profesionales
+1034,24167449,Pequeña,Turismo
+1034,75238534,Pequeña,Turismo
+1034,44497785,Pequeña,Turismo
+1036,5309496,Micro,Salud
+1037,22858692,Micro,Educación
+1037,15932390,Micro,Educación
+1038,16202528,Micro,Educación
+1038,4371884,Micro,Educación
+1039,273989962,Mediana,Servicios Profesionales
+1039,80077817,Mediana,Servicios Profesionales
+1039,128803934,Mediana,Servicios Profesionales
+1040,190329518,Mediana,Servicios Profesionales
+1040,256925364,Mediana,Servicios Profesionales
+1041,420515010,Grande,Tecnología
+1041,301442987,Grande,Tecnología
+1041,378465735,Grande,Tecnología
+1042,20131924,Pequeña,Comercio
+1043,664123015,Grande,Turismo
+1044,12323891,Micro,Salud
+1046,154189232,Mediana,Servicios Profesionales
+1046,204016172,Mediana,Servicios Profesionales
+1047,553497943,Grande,Salud
+1047,298684715,Grande,Salud
+1048,193744471,Mediana,Servicios Profesionales
+1048,218164702,Mediana,Servicios Profesionales
+1050,29813508,Pequeña,Turismo
+1050,33477454,Pequeña,Turismo
+1051,45340148,Pequeña,Tecnología
+1052,178706654,Mediana,Turismo
+1052,295808125,Mediana,Turismo
+1053,26792039,Micro,Tecnología
+1054,15673836,Micro,Salud
+1056,24314108,Micro,Tecnología
+1057,15621721,Micro,Educación
+1057,22976093,Micro,Educación
+1059,189981685,Mediana,Tecnología
+1059,275924676,Mediana,Tecnología
+1059,215636866,Mediana,Tecnología
+1060,12504293,Micro,Tecnología
+1061,68195027,Pequeña,Salud
+1061,97558915,Pequeña,Salud
+1061,32828574,Pequeña,Salud
+1062,23184553,Micro,Comercio
+1062,23160575,Micro,Comercio
+1062,9042852,Micro,Comercio
+1065,7069212,Micro,Manufactura
+1065,2034912,Micro,Manufactura
+1066,78466694,Pequeña,Manufactura
+1067,21929024,Micro,Servicios Profesionales
+1068,641199339,Grande,Manufactura
+1070,94734368,Pequeña,Turismo
+1070,59991012,Pequeña,Turismo
+1071,682823700,Grande,Educación
+1072,11037207,Micro,Manufactura
+1073,25656269,Pequeña,Salud
+1076,222668131,Mediana,Manufactura
+1076,212625579,Mediana,Manufactura
+1077,80437249,Pequeña,Manufactura
+1078,42365211,Pequeña,Turismo
+1080,96352096,Pequeña,Manufactura
+1080,70365331,Pequeña,Manufactura
+1081,119113706,Mediana,Manufactura
+1082,17916662,Micro,Salud
+1082,22516616,Micro,Salud
+1084,200546545,Mediana,Tecnología
+1084,212499906,Mediana,Tecnología
+1084,95789523,Mediana,Tecnología
+1085,28777898,Micro,Turismo
+1085,14736909,Micro,Turismo
+1087,78731325,Pequeña,Educación
+1087,39299359,Pequeña,Educación
+1090,19139668,Micro,Salud
+1090,3243405,Micro,Salud
+1090,5063386,Micro,Salud
+1093,103706712,Mediana,Construcción
+1094,254481931,Mediana,Turismo
+1094,239668092,Mediana,Turismo
+1095,225613963,Mediana,Salud
+1097,95474174,Mediana,Educación
+1097,199220706,Mediana,Educación
+1097,244118159,Mediana,Educación
+1098,3456850,Micro,Salud
+1100,11914424,Micro,Construcción
+1101,14270615,Micro,Comercio
+1101,4354046,Micro,Comercio
+1101,18234028,Micro,Comercio
+1102,60428658,Pequeña,Turismo
+1102,52266573,Pequeña,Turismo
+1102,98930263,Pequeña,Turismo
+1103,88977018,Pequeña,Construcción
+1103,83303695,Pequeña,Construcción
+1104,9311459,Micro,Turismo
+1107,78471370,Pequeña,Tecnología
+1110,81283319,Pequeña,Manufactura
+1111,6993687,Micro,Comercio
+1111,21152490,Micro,Comercio
+1111,8956438,Micro,Comercio
+1112,12303209,Micro,Turismo
+1113,149218482,Mediana,Servicios Profesionales
+1115,23491102,Micro,Construcción
+1116,56154556,Pequeña,Manufactura
+1117,105588804,Mediana,Comercio
+1117,283981530,Mediana,Comercio
+1117,94950485,Mediana,Comercio
+1118,29254264,Pequeña,Servicios Profesionales
+1119,96921683,Mediana,Servicios Profesionales
+1119,286400652,Mediana,Servicios Profesionales
+1119,181324939,Mediana,Servicios Profesionales
+1120,799447140,Grande,Manufactura
+1122,106452594,Mediana,Comercio
+1123,22784138,Micro,Tecnología
+1123,9816891,Micro,Tecnología
+1124,215021715,Mediana,Tecnología
+1125,86835309,Pequeña,Tecnología
+1126,10761402,Micro,Manufactura
+1126,17876673,Micro,Manufactura
+1127,20471076,Micro,Educación
+1127,19808506,Micro,Educación
+1128,392824537,Grande,Construcción
+1129,510484119,Grande,Comercio
+1129,360629274,Grande,Comercio
+1129,793048990,Grande,Comercio
+1130,67697799,Pequeña,Comercio
+1131,233126366,Mediana,Construcción
+1133,15665621,Micro,Tecnología
+1133,24443972,Micro,Tecnología
+1135,10570386,Micro,Construcción
+1135,26782432,Micro,Construcción
+1136,197738782,Mediana,Salud
+1137,93462921,Pequeña,Educación
+1139,4604110,Micro,Educación
+1139,21896940,Micro,Educación
+1140,336872510,Grande,Tecnología
+1141,2548135,Micro,Tecnología
+1142,29170064,Micro,Construcción
+1144,153232155,Mediana,Salud
+1145,12234452,Micro,Educación
+1146,270677113,Mediana,Comercio
+1147,90850400,Pequeña,Salud
+1148,202062056,Mediana,Servicios Profesionales
+1151,10075482,Micro,Comercio
+1153,29803840,Pequeña,Construcción
+1155,24581199,Micro,Salud
+1157,343146436,Grande,Salud
+1158,29365961,Micro,Salud
+1162,7349981,Micro,Educación
+1162,8482714,Micro,Educación
+1162,27327994,Micro,Educación
+1163,184664388,Mediana,Construcción
+1165,84720050,Pequeña,Salud
+1165,59942681,Pequeña,Salud
+1166,28286709,Micro,Tecnología
+1167,28750464,Pequeña,Educación
+1168,296257131,Mediana,Manufactura
+1168,83738339,Mediana,Manufactura
+1169,73841710,Pequeña,Comercio
+1170,9200712,Micro,Tecnología
+1171,17721678,Micro,Manufactura
+1171,13737734,Micro,Manufactura
+1174,181430980,Mediana,Servicios Profesionales
+1176,35469724,Pequeña,Construcción
+1177,97469503,Pequeña,Manufactura
+1177,46229942,Pequeña,Manufactura
+1177,50877945,Pequeña,Manufactura
+1179,16233592,Micro,Manufactura
+1180,751526814,Grande,Salud
+1180,418550793,Grande,Salud
+1181,2042220,Micro,Construcción
+1182,17201276,Micro,Servicios Profesionales
+1183,79277820,Pequeña,Servicios Profesionales
+1184,90759953,Pequeña,Comercio
+1185,71203164,Pequeña,Manufactura
+1185,84780615,Pequeña,Manufactura
+1185,75976391,Pequeña,Manufactura
+1186,5369151,Micro,Construcción
+1189,83448456,Pequeña,Turismo
+1189,32749297,Pequeña,Turismo
+1189,68249434,Pequeña,Turismo
+1190,7075088,Micro,Manufactura
+1190,22374045,Micro,Manufactura
+1190,22489267,Micro,Manufactura
+1192,10193737,Micro,Manufactura
+1192,8227164,Micro,Manufactura
+1194,11767361,Micro,Manufactura
+1194,22580868,Micro,Manufactura
+1195,9311358,Micro,Servicios Profesionales
+1196,14973853,Micro,Servicios Profesionales
+1196,4324094,Micro,Servicios Profesionales
+1197,697786776,Grande,Servicios Profesionales
+1197,679715046,Grande,Servicios Profesionales
+1199,28094054,Micro,Turismo
+1200,133050705,Mediana,Comercio
+1203,156350379,Mediana,Manufactura
+1204,43619056,Pequeña,Salud
+1205,18621913,Micro,Tecnología
+1207,10028411,Micro,Servicios Profesionales
+1207,19381739,Micro,Servicios Profesionales
+1207,26088328,Micro,Servicios Profesionales
+1208,16541470,Micro,Manufactura
+1209,27552968,Micro,Comercio
+1209,11113139,Micro,Comercio
+1210,79793431,Pequeña,Educación
+1212,85957045,Mediana,Educación
+1212,87867558,Mediana,Educación
+1213,17657750,Micro,Educación
+1214,36032592,Pequeña,Tecnología
+1215,29326712,Micro,Tecnología
+1217,289505220,Mediana,Educación
+1218,12867387,Micro,Educación
+1218,13095314,Micro,Educación
+1219,725702058,Grande,Educación
+1220,97780910,Pequeña,Educación
+1221,212481207,Mediana,Educación
+1221,122686833,Mediana,Educación
+1223,29981989,Micro,Tecnología
+1223,10212251,Micro,Tecnología
+1224,730364838,Grande,Turismo
+1224,361468732,Grande,Turismo
+1224,715116720,Grande,Turismo
+1228,26245879,Pequeña,Servicios Profesionales
+1233,30606616,Pequeña,Tecnología
+1234,16837958,Micro,Manufactura
+1236,20194610,Micro,Comercio
+1236,17947794,Micro,Comercio
+1236,2829333,Micro,Comercio
+1237,223304987,Mediana,Educación
+1238,61239664,Pequeña,Comercio
+1238,29155343,Pequeña,Comercio
+1239,27221595,Micro,Salud
+1241,7955591,Micro,Salud
+1242,91685412,Mediana,Comercio
+1243,23707953,Pequeña,Servicios Profesionales
+1244,15004116,Micro,Salud
+1244,3487045,Micro,Salud
+1244,2345108,Micro,Salud
+1245,16579378,Micro,Comercio
+1246,78019684,Pequeña,Salud
+1246,93005289,Pequeña,Salud
+1248,20057178,Pequeña,Comercio
+1249,7726658,Micro,Turismo
+1249,25959265,Micro,Turismo
+1250,28498345,Micro,Salud
+1250,14053573,Micro,Salud
+1251,14957619,Micro,Construcción
+1252,28271613,Micro,Turismo
+1252,8523207,Micro,Turismo
+1252,24114235,Micro,Turismo
+1253,9752107,Micro,Construcción
+1254,29363431,Micro,Manufactura
+1255,17763805,Micro,Educación
+1256,13861164,Micro,Salud
+1256,19045545,Micro,Salud
+1257,28458712,Micro,Manufactura
+1258,51348022,Pequeña,Salud
+1258,85684604,Pequeña,Salud
+1259,87412438,Pequeña,Educación
+1259,31821840,Pequeña,Educación
+1260,25076607,Micro,Turismo
+1261,10423143,Micro,Construcción
+1262,4318125,Micro,Construcción
+1262,21906353,Micro,Construcción
+1263,22329054,Micro,Servicios Profesionales
+1263,16391132,Micro,Servicios Profesionales
+1263,12926959,Micro,Servicios Profesionales
+1264,368396909,Grande,Educación
+1264,404531779,Grande,Educación
+1265,72350304,Pequeña,Comercio
+1265,65184589,Pequeña,Comercio
+1267,23900885,Pequeña,Comercio
+1268,25673882,Micro,Comercio
+1269,49269171,Pequeña,Educación
+1269,82421974,Pequeña,Educación
+1269,40065433,Pequeña,Educación
+1272,178825149,Mediana,Manufactura
+1274,40440011,Pequeña,Educación
+1275,59970397,Pequeña,Manufactura
+1276,81166961,Pequeña,Construcción
+1277,724097256,Grande,Servicios Profesionales
+1277,348088299,Grande,Servicios Profesionales
+1278,20058463,Pequeña,Salud
+1279,47271373,Pequeña,Servicios Profesionales
+1280,8796003,Micro,Salud
+1280,21621965,Micro,Salud
+1281,58741199,Pequeña,Manufactura
+1282,279743649,Mediana,Tecnología
+1282,211682626,Mediana,Tecnología
+1283,25252273,Micro,Manufactura
+1283,9205249,Micro,Manufactura
+1284,29291046,Micro,Servicios Profesionales
+1286,5582824,Micro,Comercio
+1287,3706110,Micro,Educación
+1287,24826555,Micro,Educación
+1288,3120378,Micro,Turismo
+1289,22189726,Micro,Tecnología
+1290,25948942,Micro,Comercio
+1291,17853004,Micro,Servicios Profesionales
+1291,13415907,Micro,Servicios Profesionales
+1292,81906236,Pequeña,Tecnología
+1293,80660494,Pequeña,Construcción
+1297,6294280,Micro,Salud
+1297,10553665,Micro,Salud
+1298,29821169,Micro,Comercio
+1298,27808632,Micro,Comercio
+1299,20604493,Micro,Turismo
+1300,9063038,Micro,Tecnología
+1300,2587379,Micro,Tecnología
+1301,159181003,Mediana,Manufactura
+1302,11055023,Micro,Construcción
+1302,16739194,Micro,Construcción
+1302,3034195,Micro,Construcción
+1304,8802674,Micro,Salud
+1304,23189774,Micro,Salud
+1307,272265788,Mediana,Servicios Profesionales
+1308,8014658,Micro,Educación
+1308,16149775,Micro,Educación
+1309,29729626,Micro,Comercio
+1309,29873780,Micro,Comercio
+1311,221229238,Mediana,Tecnología
+1311,223268192,Mediana,Tecnología
+1312,25072845,Micro,Manufactura
+1312,14978417,Micro,Manufactura
+1313,83450877,Pequeña,Tecnología
+1314,16243987,Micro,Servicios Profesionales
+1314,2065603,Micro,Servicios Profesionales
+1315,9845068,Micro,Tecnología
+1316,65859171,Pequeña,Construcción
+1317,78589732,Pequeña,Turismo
+1317,36532238,Pequeña,Turismo
+1318,161835480,Mediana,Manufactura
+1319,132665656,Mediana,Comercio
+1320,253523820,Mediana,Servicios Profesionales
+1324,24284542,Micro,Turismo
+1325,13912495,Micro,Servicios Profesionales
+1325,26037163,Micro,Servicios Profesionales
+1325,9588559,Micro,Servicios Profesionales
+1327,17948787,Micro,Construcción
+1327,27719221,Micro,Construcción
+1328,15774574,Micro,Educación
+1329,29458263,Micro,Construcción
+1330,11313096,Micro,Turismo
+1330,21286971,Micro,Turismo
+1331,425639611,Grande,Turismo
+1332,21013555,Micro,Salud
+1332,2150904,Micro,Salud
+1333,16089040,Micro,Educación
+1336,26791236,Micro,Educación
+1337,418738671,Grande,Salud
+1338,11480187,Micro,Tecnología
+1339,63728812,Pequeña,Tecnología
+1340,96865394,Pequeña,Manufactura
+1342,83225418,Pequeña,Educación
+1342,32169126,Pequeña,Educación
+1345,27210306,Micro,Servicios Profesionales
+1346,18646218,Micro,Manufactura
+1347,9586742,Micro,Comercio
+1347,27715854,Micro,Comercio
+1347,8445828,Micro,Comercio
+1348,24996412,Pequeña,Educación
+1349,63110062,Pequeña,Manufactura
+1349,90455816,Pequeña,Manufactura
+1349,38551136,Pequeña,Manufactura
+1351,745839586,Grande,Tecnología
+1352,32299544,Pequeña,Turismo
+1353,3861799,Micro,Turismo
+1355,571399366,Grande,Construcción
+1358,40121900,Pequeña,Construcción
+1359,460812926,Grande,Salud
+1359,429945647,Grande,Salud
+1360,89804910,Pequeña,Educación
+1360,65932492,Pequeña,Educación
+1361,5927484,Micro,Educación
+1362,259009431,Mediana,Manufactura
+1363,293975902,Mediana,Salud
+1363,166118637,Mediana,Salud
+1363,172447172,Mediana,Salud
+1364,701502333,Grande,Servicios Profesionales
+1364,689719322,Grande,Servicios Profesionales
+1366,744291671,Grande,Tecnología
+1367,10486517,Micro,Manufactura
+1368,103543249,Mediana,Manufactura
+1368,89180981,Mediana,Manufactura
+1369,73364979,Pequeña,Educación
+1369,62346981,Pequeña,Educación
+1370,18238805,Micro,Educación
+1370,7427610,Micro,Educación
+1370,25935652,Micro,Educación
+1371,526120225,Grande,Servicios Profesionales
+1371,478656547,Grande,Servicios Profesionales
+1375,20959796,Micro,Tecnología
+1376,9958905,Micro,Manufactura
+1378,281120307,Mediana,Turismo
+1378,166193652,Mediana,Turismo
+1378,260752320,Mediana,Turismo
+1380,51432115,Pequeña,Tecnología
+1381,14760046,Micro,Educación
+1381,15401129,Micro,Educación
+1381,14009467,Micro,Educación
+1382,17040962,Micro,Servicios Profesionales
+1383,298899806,Grande,Salud
+1384,162642892,Mediana,Educación
+1384,204813653,Mediana,Educación
+1385,274483968,Mediana,Construcción
+1386,26490284,Micro,Salud
+1389,6128525,Micro,Servicios Profesionales
+1389,9175785,Micro,Servicios Profesionales
+1391,40807626,Pequeña,Tecnología
+1392,25504806,Micro,Tecnología
+1392,9700221,Micro,Tecnología
+1395,13110411,Micro,Construcción
+1395,7244979,Micro,Construcción
+1395,20562261,Micro,Construcción
+1398,54215549,Pequeña,Salud
+1399,22814392,Micro,Tecnología
+1399,13156267,Micro,Tecnología
+1399,18868665,Micro,Tecnología
+1400,20673582,Pequeña,Manufactura
+1401,26021931,Micro,Comercio
+1402,25171393,Micro,Salud
+1403,79143611,Pequeña,Servicios Profesionales
+1407,53133665,Pequeña,Educación
+1407,93319792,Pequeña,Educación
+1407,49558252,Pequeña,Educación
+1408,21198178,Micro,Salud
+1409,84548356,Pequeña,Manufactura
+1409,37175150,Pequeña,Manufactura
+1410,74995821,Pequeña,Servicios Profesionales
+1410,20913213,Pequeña,Servicios Profesionales
+1411,461466559,Grande,Turismo
+1412,13777716,Micro,Comercio
+1413,20867451,Micro,Manufactura
+1416,93718736,Pequeña,Comercio
+1416,52626263,Pequeña,Comercio
+1418,2721045,Micro,Salud
+1420,121691037,Mediana,Servicios Profesionales
+1420,195260581,Mediana,Servicios Profesionales
+1422,64966276,Pequeña,Comercio
+1423,613557550,Grande,Turismo
+1424,102499614,Mediana,Salud
+1425,28273556,Micro,Construcción
+1425,21185293,Micro,Construcción
+1426,26329979,Micro,Construcción
+1426,21875365,Micro,Construcción
+1426,20614125,Micro,Construcción
+1427,8057937,Micro,Salud
+1430,7932472,Micro,Comercio
+1430,9709005,Micro,Comercio
+1430,24725309,Micro,Comercio
+1432,660297885,Grande,Servicios Profesionales
+1435,4974202,Micro,Servicios Profesionales
+1436,15561939,Micro,Manufactura
+1437,54807197,Pequeña,Servicios Profesionales
+1440,12687525,Micro,Construcción
+1441,90856592,Pequeña,Manufactura
+1441,48961307,Pequeña,Manufactura
+1441,42606322,Pequeña,Manufactura
+1444,16581610,Micro,Comercio
+1444,28283723,Micro,Comercio
+1445,69892209,Pequeña,Educación
+1448,10671874,Micro,Comercio
+1450,224533075,Mediana,Servicios Profesionales
+1451,26926063,Micro,Construcción
+1451,10413668,Micro,Construcción
+1451,23950491,Micro,Construcción
+1452,269164130,Mediana,Construcción
+1453,78627895,Pequeña,Construcción
+1453,75981892,Pequeña,Construcción
+1454,9249809,Micro,Tecnología
+1455,99367826,Pequeña,Educación
+1457,796080716,Grande,Comercio
+1458,24859081,Micro,Construcción
+1459,258540609,Mediana,Comercio
+1460,23702495,Micro,Educación
+1460,19889361,Micro,Educación
+1460,15769228,Micro,Educación
+1461,23591485,Micro,Turismo
+1462,39287396,Pequeña,Servicios Profesionales
+1463,84289048,Pequeña,Comercio
+1464,4248840,Micro,Tecnología
+1465,52193385,Pequeña,Manufactura
+1466,25453313,Micro,Turismo
+1467,798046440,Grande,Manufactura
+1467,612688040,Grande,Manufactura
+1469,27951059,Micro,Educación
+1470,19222447,Micro,Comercio
+1472,26792539,Micro,Salud
+1472,3863803,Micro,Salud
+1473,299568204,Mediana,Construcción
+1473,203323059,Mediana,Construcción
+1474,46509723,Pequeña,Educación
+1475,254180923,Mediana,Educación
+1475,102094839,Mediana,Educación
+1475,266871769,Mediana,Educación
+1476,5777162,Micro,Educación
+1476,17311575,Micro,Educación
+1476,17314775,Micro,Educación
+1477,10372344,Micro,Tecnología
+1478,79030866,Pequeña,Educación
+1479,12363233,Micro,Turismo
+1480,24372233,Micro,Manufactura
+1482,24965029,Micro,Salud
+1485,32707436,Pequeña,Manufactura
+1485,26601331,Pequeña,Manufactura
+1485,22069044,Pequeña,Manufactura
+1486,22443300,Pequeña,Tecnología
+1487,5489041,Micro,Turismo
+1487,21962732,Micro,Turismo
+1488,15019006,Micro,Tecnología
+1488,14706340,Micro,Tecnología
+1490,402147549,Grande,Salud
+1492,52696109,Pequeña,Educación
+1496,22995500,Micro,Servicios Profesionales
+1496,3057947,Micro,Servicios Profesionales
+1496,29820308,Micro,Servicios Profesionales
+1498,16044191,Micro,Tecnología
+1498,2941278,Micro,Tecnología
+1498,8754161,Micro,Tecnología
+1500,20461775,Pequeña,Construcción
+1501,15303296,Micro,Servicios Profesionales
+1501,21304693,Micro,Servicios Profesionales
+1503,7896880,Micro,Educación
+1504,14745817,Micro,Manufactura
+1505,20708210,Micro,Servicios Profesionales
+1506,13216607,Micro,Turismo
+1507,137873153,Mediana,Salud
+1507,155828954,Mediana,Salud
+1508,16508587,Micro,Tecnología
+1509,27966057,Micro,Tecnología
+1510,76337464,Pequeña,Turismo
+1511,70062880,Pequeña,Educación
+1512,95066262,Pequeña,Comercio
+1512,35027440,Pequeña,Comercio
+1514,17801856,Micro,Turismo
+1515,20423349,Micro,Manufactura
+1520,38251412,Pequeña,Servicios Profesionales
+1520,78368109,Pequeña,Servicios Profesionales
+1521,24604495,Micro,Educación
+1522,10990908,Micro,Servicios Profesionales
+1523,12157943,Micro,Comercio
+1523,28610062,Micro,Comercio
+1523,5250776,Micro,Comercio
+1524,34324666,Pequeña,Tecnología
+1524,36706129,Pequeña,Tecnología
+1525,753112318,Grande,Construcción
+1528,6807318,Micro,Manufactura
+1528,16884342,Micro,Manufactura
+1529,79049400,Pequeña,Educación
+1529,29085504,Pequeña,Educación
+1531,407009673,Grande,Turismo
+1531,544569789,Grande,Turismo
+1532,36239995,Pequeña,Construcción
+1532,87049135,Pequeña,Construcción
+1533,5869854,Micro,Manufactura
+1533,7609081,Micro,Manufactura
+1534,26726256,Micro,Servicios Profesionales
+1534,14018684,Micro,Servicios Profesionales
+1535,14283397,Micro,Manufactura
+1535,11109030,Micro,Manufactura
+1536,18536512,Micro,Manufactura
+1536,10418369,Micro,Manufactura
+1538,78918702,Pequeña,Comercio
+1539,14816504,Micro,Servicios Profesionales
+1539,29499966,Micro,Servicios Profesionales
+1540,12722190,Micro,Comercio
+1542,290385813,Grande,Servicios Profesionales
+1542,281080874,Grande,Servicios Profesionales
+1543,479662525,Grande,Manufactura
+1543,342093728,Grande,Manufactura
+1545,223372732,Mediana,Tecnología
+1545,92775201,Mediana,Tecnología
+1545,256155011,Mediana,Tecnología
+1546,108400448,Mediana,Turismo
+1546,80515081,Mediana,Turismo
+1547,18463192,Micro,Servicios Profesionales
+1548,5129065,Micro,Construcción
+1548,14822945,Micro,Construcción
+1549,219282620,Mediana,Turismo
+1549,131425451,Mediana,Turismo
+1550,235689401,Mediana,Servicios Profesionales
+1550,82586488,Mediana,Servicios Profesionales
+1551,20340988,Micro,Turismo
+1552,18611701,Micro,Tecnología
+1552,8721746,Micro,Tecnología
+1554,26185586,Micro,Turismo
+1555,22759144,Micro,Turismo
+1556,23747254,Micro,Tecnología
+1557,94351182,Pequeña,Salud
+1558,192678012,Mediana,Servicios Profesionales
+1559,28599490,Micro,Comercio
+1559,23622363,Micro,Comercio
+1561,242085354,Mediana,Servicios Profesionales
+1562,412273736,Grande,Salud
+1563,91622024,Pequeña,Comercio
+1563,39931625,Pequeña,Comercio
+1563,55048279,Pequeña,Comercio
+1564,140915254,Mediana,Educación
+1565,45689973,Pequeña,Tecnología
+1566,18796780,Micro,Educación
+1566,25629481,Micro,Educación
+1567,28431189,Pequeña,Servicios Profesionales
+1568,105014918,Mediana,Servicios Profesionales
+1572,89010340,Pequeña,Salud
+1573,202137245,Mediana,Comercio
+1574,153288042,Mediana,Construcción
+1575,2643529,Micro,Educación
+1577,29684454,Micro,Salud
+1577,24906035,Micro,Salud
+1580,26236457,Micro,Comercio
+1581,70720995,Pequeña,Educación
+1582,104621460,Mediana,Tecnología
+1583,12281611,Micro,Tecnología
+1583,12770871,Micro,Tecnología
+1584,453802987,Grande,Servicios Profesionales
+1585,19073039,Micro,Manufactura
+1586,228588947,Mediana,Turismo
+1588,17097489,Micro,Salud
+1588,9302543,Micro,Salud
+1588,15743660,Micro,Salud
+1589,21496725,Micro,Tecnología
+1589,10856766,Micro,Tecnología
+1589,21514355,Micro,Tecnología
+1590,41186907,Pequeña,Educación
+1590,92885482,Pequeña,Educación
+1591,6280280,Micro,Educación
+1591,16636507,Micro,Educación
+1592,36069512,Pequeña,Construcción
+1593,714991067,Grande,Comercio
+1594,211284585,Mediana,Manufactura
+1594,223035878,Mediana,Manufactura
+1595,3706894,Micro,Turismo
+1597,331099272,Grande,Comercio
+1598,19466139,Micro,Comercio
+1599,102643789,Mediana,Manufactura
+1599,137868304,Mediana,Manufactura
+1600,7496756,Micro,Servicios Profesionales
+1601,38788710,Pequeña,Construcción
+1601,46455185,Pequeña,Construcción
+1602,9132834,Micro,Salud
+1603,97016803,Pequeña,Educación
+1604,14265059,Micro,Educación
+1605,20721380,Micro,Educación
+1606,12241153,Micro,Manufactura
+1606,29878850,Micro,Manufactura
+1608,28152002,Micro,Construcción
+1610,10343548,Micro,Salud
+1611,20611074,Micro,Comercio
+1611,6723642,Micro,Comercio
+1611,3534922,Micro,Comercio
+1614,5893051,Micro,Salud
+1614,19352753,Micro,Salud
+1615,13154421,Micro,Manufactura
+1616,17063433,Micro,Comercio
+1616,24800511,Micro,Comercio
+1617,87883333,Pequeña,Manufactura
+1618,217905188,Mediana,Construcción
+1618,155664177,Mediana,Construcción
+1618,182789330,Mediana,Construcción
+1620,11134608,Micro,Turismo
+1620,7370229,Micro,Turismo
+1622,89546957,Pequeña,Comercio
+1623,213920500,Mediana,Educación
+1624,25495317,Micro,Comercio
+1624,26038395,Micro,Comercio
+1624,24081314,Micro,Comercio
+1625,7128225,Micro,Manufactura
+1627,24250004,Micro,Construcción
+1628,25588440,Pequeña,Servicios Profesionales
+1629,130820272,Mediana,Turismo
+1631,14801108,Micro,Turismo
+1631,27789485,Micro,Turismo
+1632,26144363,Micro,Educación
+1632,10483954,Micro,Educación
+1634,2609516,Micro,Turismo
+1634,16828318,Micro,Turismo
+1635,4556757,Micro,Construcción
+1637,78692130,Pequeña,Construcción
+1638,16155789,Micro,Construcción
+1638,15736630,Micro,Construcción
+1639,62883158,Pequeña,Turismo
+1640,19908686,Micro,Educación
+1643,46495874,Pequeña,Turismo
+1643,55942476,Pequeña,Turismo
+1644,151627905,Mediana,Turismo
+1645,20062732,Micro,Tecnología
+1646,14992497,Micro,Comercio
+1647,39998170,Pequeña,Turismo
+1647,43097240,Pequeña,Turismo
+1647,74331816,Pequeña,Turismo
+1648,284177780,Mediana,Construcción
+1649,18532997,Micro,Servicios Profesionales
+1649,9776136,Micro,Servicios Profesionales
+1651,27190140,Micro,Comercio
+1653,26427681,Micro,Educación
+1654,9725567,Micro,Tecnología
+1655,67867213,Pequeña,Turismo
+1655,21798975,Pequeña,Turismo
+1655,45083526,Pequeña,Turismo
+1657,21057868,Micro,Turismo
+1658,345759248,Grande,Tecnología
+1658,314820351,Grande,Tecnología
+1659,525468973,Grande,Tecnología
+1659,527629977,Grande,Tecnología
+1661,37842488,Pequeña,Tecnología
+1663,94342066,Pequeña,Comercio
+1665,22972618,Micro,Tecnología
+1665,21275758,Micro,Tecnología
+1666,224818049,Mediana,Educación
+1667,14653004,Micro,Manufactura
+1668,3328795,Micro,Salud
+1668,2767895,Micro,Salud
+1669,28268061,Micro,Manufactura
+1669,28008983,Micro,Manufactura
+1670,235349013,Mediana,Manufactura
+1672,12985950,Micro,Tecnología
+1673,2932935,Micro,Manufactura
+1674,186055506,Mediana,Turismo
+1674,179265163,Mediana,Turismo
+1675,57595897,Pequeña,Tecnología
+1675,69807196,Pequeña,Tecnología
+1675,54332279,Pequeña,Tecnología
+1677,20448695,Micro,Manufactura
+1679,12094277,Micro,Tecnología
+1680,50458425,Pequeña,Tecnología
+1681,29879655,Micro,Manufactura
+1682,13174447,Micro,Tecnología
+1683,404626947,Grande,Turismo
+1683,515173665,Grande,Turismo
+1684,13636375,Micro,Construcción
+1684,2775353,Micro,Construcción
+1684,26830006,Micro,Construcción
+1685,16795548,Micro,Salud
+1687,297598219,Grande,Salud
+1688,50370775,Pequeña,Comercio
+1690,5617615,Micro,Educación
+1692,5487494,Micro,Servicios Profesionales
+1692,6227204,Micro,Servicios Profesionales
+1694,269436585,Mediana,Manufactura
+1694,245159972,Mediana,Manufactura
+1695,26063871,Micro,Servicios Profesionales
+1696,5649903,Micro,Manufactura
+1697,554416733,Grande,Construcción
+1698,237363461,Mediana,Manufactura
+1698,238844236,Mediana,Manufactura
+1698,180526960,Mediana,Manufactura
+1699,71212764,Pequeña,Educación
+1700,31840498,Pequeña,Salud
+1701,17140824,Micro,Servicios Profesionales
+1701,11466043,Micro,Servicios Profesionales
+1703,11968725,Micro,Tecnología
+1706,36689265,Pequeña,Educación
+1708,5430918,Micro,Construcción
+1708,27836516,Micro,Construcción
+1709,676888249,Grande,Turismo
+1710,22238063,Micro,Salud
+1710,27217625,Micro,Salud
+1711,270465034,Grande,Servicios Profesionales
+1712,19937481,Micro,Manufactura
+1712,15364308,Micro,Manufactura
+1713,76996091,Pequeña,Manufactura
+1715,63225496,Pequeña,Educación
+1717,12576331,Micro,Construcción
+1718,6311733,Micro,Educación
+1720,18647396,Micro,Tecnología
+1721,12867629,Micro,Servicios Profesionales
+1722,9648079,Micro,Tecnología
+1724,18042639,Micro,Comercio
+1725,18884581,Micro,Turismo
+1725,24132760,Micro,Turismo
+1726,43246445,Pequeña,Salud
+1727,163265834,Mediana,Manufactura
+1730,535860701,Grande,Educación
+1730,254846768,Grande,Educación
+1730,632046994,Grande,Educación
+1731,179805076,Mediana,Construcción
+1732,251568104,Mediana,Comercio
+1733,510871027,Grande,Educación
+1734,35696642,Pequeña,Servicios Profesionales
+1735,7556696,Micro,Manufactura
+1736,40319414,Pequeña,Servicios Profesionales
+1736,38170665,Pequeña,Servicios Profesionales
+1737,295192152,Mediana,Comercio
+1738,9330714,Micro,Manufactura
+1739,51302606,Pequeña,Salud
+1740,11919721,Micro,Comercio
+1740,19539646,Micro,Comercio
+1741,13741829,Micro,Educación
+1743,9628725,Micro,Turismo
+1743,6737310,Micro,Turismo
+1744,56886727,Pequeña,Salud
+1746,625588065,Grande,Construcción
+1746,525439796,Grande,Construcción
+1747,56829832,Pequeña,Manufactura
+1748,19160747,Micro,Servicios Profesionales
+1748,12619101,Micro,Servicios Profesionales
+1749,38287626,Pequeña,Turismo
+1750,43917332,Pequeña,Salud
+1751,28957762,Micro,Salud
+1751,6823104,Micro,Salud
+1752,5370199,Micro,Servicios Profesionales
+1754,170208152,Mediana,Construcción
+1755,182611994,Mediana,Turismo
+1756,12604758,Micro,Educación
+1757,92043840,Pequeña,Manufactura
+1758,26985507,Micro,Turismo
+1758,22117031,Micro,Turismo
+1760,239891051,Mediana,Comercio
+1761,26356517,Micro,Manufactura
+1761,8292096,Micro,Manufactura
+1761,7583297,Micro,Manufactura
+1763,118326107,Mediana,Educación
+1763,182307244,Mediana,Educación
+1763,203102523,Mediana,Educación
+1764,22751267,Micro,Educación
+1764,27930243,Micro,Educación
+1764,8735642,Micro,Educación
+1765,51544840,Pequeña,Servicios Profesionales
+1765,24842506,Pequeña,Servicios Profesionales
+1765,93820232,Pequeña,Servicios Profesionales
+1766,81212937,Pequeña,Salud
+1767,28230830,Pequeña,Manufactura
+1767,62934204,Pequeña,Manufactura
+1768,239295713,Mediana,Comercio
+1768,284797561,Mediana,Comercio
+1770,85278948,Pequeña,Educación
+1770,55158405,Pequeña,Educación
+1771,171962144,Mediana,Servicios Profesionales
+1772,118990661,Mediana,Servicios Profesionales
+1772,248390951,Mediana,Servicios Profesionales
+1772,137683371,Mediana,Servicios Profesionales
+1774,7641518,Micro,Educación
+1775,231460574,Mediana,Comercio
+1776,5851804,Micro,Salud
+1776,7258919,Micro,Salud
+1776,8052684,Micro,Salud
+1779,136721389,Mediana,Servicios Profesionales
+1780,155053518,Mediana,Turismo
+1782,3754350,Micro,Construcción
+1782,10833074,Micro,Construcción
+1784,21632642,Micro,Comercio
+1784,13612637,Micro,Comercio
+1785,281487512,Mediana,Servicios Profesionales
+1788,58753235,Pequeña,Turismo
+1789,29926366,Pequeña,Servicios Profesionales
+1789,84114824,Pequeña,Servicios Profesionales
+1789,50020488,Pequeña,Servicios Profesionales
+1790,42688581,Pequeña,Turismo
+1790,31698699,Pequeña,Turismo
+1791,9354795,Micro,Servicios Profesionales
+1792,25424914,Micro,Tecnología
+1792,24518173,Micro,Tecnología
+1796,28266509,Micro,Tecnología
+1798,40633979,Pequeña,Comercio
+1799,34419289,Pequeña,Salud
+1800,24400374,Micro,Manufactura
+1801,29273525,Micro,Comercio
+1801,22209760,Micro,Comercio
+1801,19515586,Micro,Comercio
+1802,77570127,Pequeña,Servicios Profesionales
+1803,14507986,Micro,Servicios Profesionales
+1803,10230308,Micro,Servicios Profesionales
+1806,130055771,Mediana,Construcción
+1807,6798829,Micro,Salud
+1808,29571887,Micro,Servicios Profesionales
+1808,10136840,Micro,Servicios Profesionales
+1808,2684401,Micro,Servicios Profesionales
+1811,8328181,Micro,Manufactura
+1812,27430487,Micro,Servicios Profesionales
+1812,26210454,Micro,Servicios Profesionales
+1812,25045985,Micro,Servicios Profesionales
+1813,312062831,Grande,Turismo
+1813,775805089,Grande,Turismo
+1815,196537308,Mediana,Manufactura
+1816,55722059,Pequeña,Turismo
+1817,18633434,Micro,Construcción
+1817,7314824,Micro,Construcción
+1818,95283656,Pequeña,Tecnología
+1819,3095910,Micro,Comercio
+1820,14503389,Micro,Comercio
+1821,73917607,Pequeña,Salud
+1822,77156431,Pequeña,Servicios Profesionales
+1823,27324582,Pequeña,Tecnología
+1824,54621071,Pequeña,Comercio
+1824,34000932,Pequeña,Comercio
+1824,83484155,Pequeña,Comercio
+1825,205063922,Mediana,Salud
+1825,169624909,Mediana,Salud
+1826,57658260,Pequeña,Construcción
+1829,180763357,Mediana,Salud
+1829,231777200,Mediana,Salud
+1829,197903477,Mediana,Salud
+1831,96643792,Pequeña,Educación
+1831,87252390,Pequeña,Educación
+1832,61432530,Pequeña,Tecnología
+1832,25615609,Pequeña,Tecnología
+1833,83881146,Pequeña,Educación
+1833,22189272,Pequeña,Educación
+1833,34913440,Pequeña,Educación
+1834,13317248,Micro,Turismo
+1834,25215762,Micro,Turismo
+1838,25374254,Pequeña,Servicios Profesionales
+1838,86310774,Pequeña,Servicios Profesionales
+1839,139320469,Mediana,Turismo
+1839,258446433,Mediana,Turismo
+1841,40966085,Pequeña,Salud
+1843,10913509,Micro,Turismo
+1846,7681865,Micro,Salud
+1846,3804645,Micro,Salud
+1847,2372832,Micro,Salud
+1849,4677453,Micro,Manufactura
+1850,6945031,Micro,Tecnología
+1850,20855588,Micro,Tecnología
+1851,8134668,Micro,Manufactura
+1851,23751932,Micro,Manufactura
+1852,16860778,Micro,Servicios Profesionales
+1852,12138081,Micro,Servicios Profesionales
+1853,28489143,Pequeña,Servicios Profesionales
+1854,88028022,Pequeña,Educación
+1857,756827785,Grande,Manufactura
+1857,793087398,Grande,Manufactura
+1857,720420895,Grande,Manufactura
+1858,35870788,Pequeña,Servicios Profesionales
+1858,61431193,Pequeña,Servicios Profesionales
+1858,95439240,Pequeña,Servicios Profesionales
+1860,17068493,Micro,Servicios Profesionales
+1860,22579418,Micro,Servicios Profesionales
+1861,60993829,Pequeña,Comercio
+1861,52696816,Pequeña,Comercio
+1862,2436628,Micro,Comercio
+1862,2728319,Micro,Comercio
+1863,24617655,Pequeña,Comercio
+1864,29519785,Micro,Manufactura
+1865,8900418,Micro,Servicios Profesionales
+1866,7187401,Micro,Construcción
+1866,21776246,Micro,Construcción
+1867,26752527,Micro,Comercio
+1867,18239874,Micro,Comercio
+1867,4857537,Micro,Comercio
+1868,219191923,Mediana,Educación
+1869,23871182,Micro,Servicios Profesionales
+1870,24127648,Micro,Tecnología
+1872,285302042,Mediana,Comercio
+1872,258529765,Mediana,Comercio
+1873,27552135,Micro,Comercio
+1874,8570961,Micro,Comercio
+1874,13001116,Micro,Comercio
+1874,17046867,Micro,Comercio
+1875,77963128,Pequeña,Salud
+1876,23638802,Micro,Comercio
+1876,4989768,Micro,Comercio
+1876,6337152,Micro,Comercio
+1877,23448241,Micro,Salud
+1878,6158132,Micro,Construcción
+1878,6373300,Micro,Construcción
+1879,26084096,Micro,Manufactura
+1879,24207322,Micro,Manufactura
+1880,61398951,Pequeña,Comercio
+1880,24235990,Pequeña,Comercio
+1880,43096780,Pequeña,Comercio
+1881,28162976,Micro,Manufactura
+1883,487063594,Grande,Educación
+1885,251027537,Mediana,Manufactura
+1885,282212857,Mediana,Manufactura
+1886,23319340,Micro,Tecnología
+1886,16999182,Micro,Tecnología
+1887,28070404,Micro,Turismo
+1887,5010694,Micro,Turismo
+1888,26413848,Micro,Salud
+1889,68042143,Pequeña,Turismo
+1890,55176128,Pequeña,Salud
+1891,7521808,Micro,Turismo
+1891,29068145,Micro,Turismo
+1892,45699322,Pequeña,Tecnología
+1893,8175899,Micro,Tecnología
+1893,24020688,Micro,Tecnología
+1894,4937950,Micro,Comercio
+1895,10365638,Micro,Tecnología
+1895,19961847,Micro,Tecnología
+1895,16143714,Micro,Tecnología
+1897,190576370,Mediana,Construcción
+1897,110025545,Mediana,Construcción
+1899,90645818,Pequeña,Manufactura
+1900,12787366,Micro,Educación
+1900,25796209,Micro,Educación
+1900,29317329,Micro,Educación
+1901,7111536,Micro,Salud
+1901,14063777,Micro,Salud
+1902,29799807,Micro,Servicios Profesionales
+1902,16497420,Micro,Servicios Profesionales
+1904,63148995,Pequeña,Educación
+1904,96378235,Pequeña,Educación
+1905,17688373,Micro,Servicios Profesionales
+1905,3133678,Micro,Servicios Profesionales
+1906,114544870,Mediana,Educación
+1908,23314446,Micro,Educación
+1910,73290700,Pequeña,Tecnología
+1910,59542810,Pequeña,Tecnología
+1910,92959758,Pequeña,Tecnología
+1912,66845257,Pequeña,Educación
+1912,80805056,Pequeña,Educación
+1912,91883925,Pequeña,Educación
+1913,130231621,Mediana,Salud
+1916,27200604,Pequeña,Servicios Profesionales
+1918,15871464,Micro,Construcción
+1919,50489542,Pequeña,Comercio
+1921,22403722,Micro,Salud
+1921,25142091,Micro,Salud
+1921,13477071,Micro,Salud
+1922,6298907,Micro,Construcción
+1922,27146025,Micro,Construcción
+1924,20873171,Micro,Manufactura
+1925,7925107,Micro,Comercio
+1926,44312073,Pequeña,Comercio
+1927,225747028,Mediana,Servicios Profesionales
+1930,25534312,Micro,Manufactura
+1930,3039705,Micro,Manufactura
+1931,270510071,Mediana,Servicios Profesionales
+1932,15115581,Micro,Servicios Profesionales
+1934,12202250,Micro,Tecnología
+1935,57359300,Pequeña,Comercio
+1936,275470049,Mediana,Construcción
+1936,121149560,Mediana,Construcción
+1936,145563305,Mediana,Construcción
+1938,34112677,Pequeña,Manufactura
+1939,10759773,Micro,Manufactura
+1940,21515036,Micro,Educación
+1940,9609323,Micro,Educación
+1941,20321427,Micro,Servicios Profesionales
+1941,9804636,Micro,Servicios Profesionales
+1942,2718699,Micro,Construcción
+1942,2298235,Micro,Construcción
+1943,177850788,Mediana,Educación
+1944,11626910,Micro,Turismo
+1945,649364282,Grande,Manufactura
+1945,546357640,Grande,Manufactura
+1945,550006914,Grande,Manufactura
+1946,16786895,Micro,Manufactura
+1948,28675186,Micro,Comercio
+1949,231325492,Mediana,Turismo
+1950,30046167,Pequeña,Construcción
+1952,72784732,Pequeña,Construcción
+1953,627075557,Grande,Manufactura
+1953,291776614,Grande,Manufactura
+1953,417943651,Grande,Manufactura
+1955,67305126,Pequeña,Comercio
+1956,92329326,Pequeña,Comercio
+1956,96930901,Pequeña,Comercio
+1956,74025666,Pequeña,Comercio
+1957,5852609,Micro,Manufactura
+1957,16085683,Micro,Manufactura
+1957,20045307,Micro,Manufactura
+1958,141849115,Mediana,Salud
+1961,269375862,Mediana,Salud
+1961,265441409,Mediana,Salud
+1962,395834484,Grande,Tecnología
+1963,78219684,Pequeña,Construcción
+1963,27573129,Pequeña,Construcción
+1963,65483792,Pequeña,Construcción
+1964,4868721,Micro,Turismo
+1964,9699429,Micro,Turismo
+1964,22024551,Micro,Turismo
+1965,27958334,Pequeña,Manufactura
+1966,5278465,Micro,Comercio
+1966,25891180,Micro,Comercio
+1966,18226095,Micro,Comercio
+1967,224336330,Mediana,Servicios Profesionales
+1967,91308405,Mediana,Servicios Profesionales
+1968,15566023,Micro,Manufactura
+1968,16256093,Micro,Manufactura
+1969,14765151,Micro,Salud
+1970,20580292,Pequeña,Manufactura
+1971,586945881,Grande,Turismo
+1972,410190945,Grande,Turismo
+1973,36557498,Pequeña,Educación
+1974,27045328,Micro,Servicios Profesionales
+1974,16422288,Micro,Servicios Profesionales
+1975,442733582,Grande,Salud
+1976,7439751,Micro,Salud
+1976,16231416,Micro,Salud
+1978,51779869,Pequeña,Salud
+1978,77584698,Pequeña,Salud
+1980,68226413,Pequeña,Tecnología
+1980,99730287,Pequeña,Tecnología
+1981,183335981,Mediana,Educación
+1983,4238051,Micro,Turismo
+1984,305876663,Grande,Comercio
+1984,279996298,Grande,Comercio
+1985,269377317,Mediana,Comercio
+1986,586399768,Grande,Servicios Profesionales
+1987,55477954,Pequeña,Comercio
+1987,24790345,Pequeña,Comercio
+1987,61803522,Pequeña,Comercio
+1988,559413964,Grande,Educación
+1989,280784353,Mediana,Comercio
+1990,27305968,Micro,Manufactura
+1990,12541016,Micro,Manufactura
+1990,9152253,Micro,Manufactura
+1991,29367916,Micro,Salud
+1991,7029626,Micro,Salud
+1992,281872428,Mediana,Servicios Profesionales
+1992,235669128,Mediana,Servicios Profesionales
+1992,203050351,Mediana,Servicios Profesionales
+1994,24031985,Micro,Turismo
+1996,25549068,Micro,Educación
+1997,29331881,Micro,Turismo
+1998,21736617,Micro,Educación
