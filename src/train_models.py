@@ -278,6 +278,8 @@ try:
     import joblib
     joblib.dump(modelo_churn, os.path.join(PROJECT_ROOT, 'models/modelo_churn.pkl'))
     joblib.dump(modelo_leads, os.path.join(PROJECT_ROOT, 'models/modelo_leads.pkl'))
+    joblib.dump(preprocessor_churn, os.path.join(PROJECT_ROOT, 'models/preprocessor_churn.pkl'))
+    joblib.dump(preprocessor_leads, os.path.join(PROJECT_ROOT, 'models/preprocessor_leads.pkl'))
     # También puedes guardar los DataFrames procesados como CSV
     X_churn_final.to_csv(os.path.join(PROJECT_ROOT, 'data/processed/X_churn_processed.csv'), index=False)
     X_leads_final.to_csv(os.path.join(PROJECT_ROOT, 'data/processed/X_leads_processed.csv'), index=False)
